@@ -9,4 +9,9 @@ public class Main
         System.out.println("Revision 4 in master");
         System.out.println("Revision 6 in master");
     }
+
+    public void methodInBranch()
+    {
+        System.out.println("Revision 3 in branch");
+    }
 }
