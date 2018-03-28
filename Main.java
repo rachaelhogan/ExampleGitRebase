@@ -13,5 +13,6 @@ public class Main
     public void methodInBranch()
     {
         System.out.println("Revision 3 in branch");
+        System.out.println("Revision 5 in branch");
     }
 }
