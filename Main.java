@@ -1,6 +1,6 @@
 public class Main
 {
-    //this is the chronological revision 3 in branch
+    //this is the chronological revision 5 in branch
     
     public void methodInMaster()
     {
@@ -11,5 +11,6 @@ public class Main
     public void methodInBranch()
     {
         System.out.println("Revision 3 in branch");
+        System.out.println("Revision 5 in branch");
     }
 }
